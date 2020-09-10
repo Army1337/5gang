@@ -1,0 +1,3 @@
+hugyos : fos
+szaros : geci
+behugyo : ztam
